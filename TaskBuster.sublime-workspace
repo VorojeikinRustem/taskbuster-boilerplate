@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"Sign",
+				"SignUp"
+			],
+			[
+				"S",
+				"SignUp"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"bo",
+				"botcheck	(statement)"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect	(class)"
+			],
+			[
+				"H",
+				"HttpResponseRedirect	(class)"
+			],
+			[
+				"Template",
+				"TemplateView	(class)"
+			],
+			[
+				"max",
+				"max_length	(param)"
+			],
+			[
+				"Htt",
+				"HttpResponse	(class)"
+			],
+			[
+				"con",
+				"confirm_password"
+			],
+			[
+				"crea",
+				"create_user"
+			],
+			[
+				"pre",
+				"preset_port"
+			],
+			[
+				"pres",
+				"preset_host"
+			],
+			[
+				"preset",
+				"preset_host"
+			],
+			[
+				"pr",
+				"preset_password"
+			],
+			[
+				"prese",
+				"preset_username"
+			],
+			[
+				"pas",
+				"password_group2"
+			],
+			[
+				"log",
+				"login_group2"
+			],
+			[
+				"hos",
+				"host_group2"
+			],
+			[
+				"host",
+				"host_group1"
+			],
+			[
+				"shopp",
+				"shoppr_backend_db"
+			],
+			[
+				"mongo",
+				"mongorestore"
+			],
+			[
+				"L",
+				"LIST_SHOPPR_USERCONTENT_DB"
+			],
+			[
+				"li",
+				"list_shoppr_backend_db_collections"
+			],
+			[
+				"sho",
+				"shoppr_backend_db"
+			],
+			[
+				"sh",
+				"shoppr_usercontent_db"
+			],
+			[
+				"pa",
+				"password_group2"
+			],
+			[
+				"logi",
+				"login_group2"
+			],
+			[
+				"db",
+				"db_user_error"
+			],
+			[
+				"login",
+				"login_group1"
+			],
+			[
+				"po",
+				"port_group1"
+			],
+			[
+				"lo",
+				"login_group1"
+			],
+			[
+				"targe",
+				"target_db_name"
+			],
+			[
+				"fro",
+				"fromhost"
+			],
+			[
+				"tar",
+				"target_db_name"
+			],
+			[
+				"co",
+				"command"
+			],
+			[
+				"pass",
+				"password_group1"
+			],
+			[
+				"client",
+				"client_to_copy"
+			],
+			[
+				"passwo",
+				"password_group2"
+			],
+			[
+				"port",
+				"port_group1"
+			],
+			[
+				"password",
+				"password_group1"
+			],
+			[
+				"presets",
+				"presets_col"
+			],
+			[
+				"p",
+				"presets"
+			],
+			[
+				"preset_",
+				"preset_password"
+			],
+			[
+				"find",
+				"find_one"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"connect",
+				"connect_to_db"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"au",
+				"authenticate"
+			],
+			[
+				"te",
+				"text-success"
+			],
+			[
+				"str-l",
+				"str-list-item"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"k",
+				"k_dict"
+			],
+			[
+				"v",
+				"v_dict"
+			],
+			[
+				"test",
+				"test_l"
+			],
+			[
+				"keys",
+				"keys_2"
+			],
+			[
+				"col",
+				"col_elem_bd"
+			],
+			[
+				"name",
+				"name_collections"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"st",
+				"str_int_r"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"br",
+				"brand"
+			],
+			[
+				"task",
+				"task_generator"
+			],
+			[
+				"t",
+				"thread3"
+			],
+			[
+				"thread",
+				"thread2"
+			],
+			[
+				"json",
+				"json_result"
+			],
+			[
+				"js",
+				"json_result"
+			],
+			[
+				"cli",
+				"client_connection"
+			],
+			[
+				"P",
+				"PLATFORM_HEIGHT"
+			],
+			[
+				"PL",
+				"PLATFORM_WIDTH"
+			],
+			[
+				"Plat",
+				"PLATFORM_WIDTH"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"WI",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"W",
+				"WINDOW_WIDTH"
+			],
+			[
+				"WIN_",
+				"WIN_WIDTH"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"se",
+				"second-block-photo"
+			],
+			[
+				"fi",
+				"first-block-photo"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ou",
+				"outline-style"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"Entry",
+				"EntryAdmin"
+			],
+			[
+				"male",
+				"make_upload_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "functional_tests/all_users.py",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "package control",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packege",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packege ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 398.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/te7ris/venv/taskbuster_project",
+		"/home/te7ris/venv/taskbuster_project/functional_tests"
+	],
+	"file_history":
+	[
+		"/home/te7ris/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/te7ris/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/te7ris/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/te7ris/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/te7ris/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/te7ris/venv/dmg/dmg/dmg/settings.py",
+		"/home/te7ris/venv/dmg/dmg/dmg/local_settings.py",
+		"/home/te7ris/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/te7ris/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/te7ris/venv/dmg/dmg/requirements.txt",
+		"/home/te7ris/venv/dmg/dmg/dmg/example.local_settings.py",
+		"/home/te7ris/venv/dmg/dmg/example.fabfile.py",
+		"/home/te7ris/venv/dmg/dmg/.gitignore",
+		"/home/te7ris/venv/dmg/dmg/fabfile.py",
+		"/home/te7ris/.ssh/id_rsa.pub",
+		"/home/te7ris/venv/dmg/dmg/.ignore",
+		"/home/te7ris/venv/django-angular-tutorial/magazine/products/admin.py",
+		"/home/te7ris/venv/django-angular-tutorial/magazine/products/models.py",
+		"/home/te7ris/venv/django-angular-tutorial/magazine/magazine/settings.py",
+		"/home/te7ris/venv/django-angular-tutorial/magazine/magazine/urls.py",
+		"/home/te7ris/Desktop/trydjango18/src/trydjango18/settings/__init__.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/home.html",
+		"/home/te7ris/Desktop/trydjango18/src/templates/navbar.html",
+		"/home/te7ris/Desktop/trydjango18/src/templates/base.html",
+		"/home/te7ris/Desktop/trydjango18/src/newsletter/views.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/head_css.html",
+		"/home/te7ris/Desktop/trydjango18/static_in_env/static_root/css/navbar-static-top.css",
+		"/home/te7ris/Desktop/trydjango18/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/te7ris/Desktop/trydjango18/src/templates/registration/login.html",
+		"/home/te7ris/Desktop/trydjango18/src/trydjango18/urls.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/registration/activation_complete.html",
+		"/home/te7ris/Desktop/trydjango18/src/templates/registration/activation_email.html",
+		"/home/te7ris/Desktop/trydjango18/src/templates/registration/registration_form.html",
+		"/home/te7ris/Desktop/trydjango18/src/trydjango18/settings.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/forms.html",
+		"/home/te7ris/Desktop/trydjango18/src/trydjango18/views.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/example_fluid.html",
+		"/home/te7ris/Desktop/trydjango18/src/templates/example_text.txt",
+		"/home/te7ris/Desktop/trydjango18/src/static_in_pro/our_static/css/custom.css",
+		"/home/te7ris/Desktop/trydjango18/src/templates/javascript.html",
+		"/home/te7ris/Desktop/trydjango18/src/newsletter/models.py",
+		"/home/te7ris/Desktop/trydjango18/src/newsletter/forms.py",
+		"/home/te7ris/Desktop/trydjango18/src/newsletter/admin.py",
+		"/home/te7ris/Desktop/trydjango18/src/templates/navbar",
+		"/home/te7ris/Desktop/trydjango18/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/home/te7ris/Desktop/trydjango18/src/static_in_pro/our_static/img/example.txt",
+		"/home/te7ris/Desktop/trydjango18/src/newsletter/templates/home.html",
+		"/home/te7ris/workspace/work/projects/dashboard/.gitignore",
+		"/home/te7ris/workspace/work/projects/dashboard/update_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/install_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/configuration.html",
+		"/home/te7ris/workspace/work/projects/dashboard/fabfile.py",
+		"/home/te7ris/workspace/work/projects/dashboard/emperor_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/nginx_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/ini_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/configuration/views.py",
+		"/home/te7ris/workspace/work/projects/dashboard/dashboard/urls.py",
+		"/home/te7ris/workspace/work/projects/dashboard/show_database/templatetags/dict_filters.py",
+		"/home/te7ris/workspace/work/projects/dashboard/show_database/views.py",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/main.html",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/login.html",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/list_collections.html",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/list_documents.html",
+		"/home/te7ris/workspace/work/projects/dashboard/test.py",
+		"/home/te7ris/workspace/work/rab.py",
+		"/home/te7ris/workspace/work/projects/dashboard/show_database/admin.py",
+		"/home/te7ris/workspace/work/projects/dashboard/uwsgi_params",
+		"/home/te7ris/workspace/work/projects/zapasnoy.txt",
+		"/home/te7ris/workspace/work/test_dump_restor.py",
+		"/home/te7ris/workspace/work/projects/dashboard/dashboard/settings.py",
+		"/home/te7ris/workspace/work/projects/dashboard/test_local.py",
+		"/home/te7ris/workspace/work/projects/dashboard/uwsgi_param",
+		"/home/te7ris/workspace/work/sh_file/install_dashboard.sh",
+		"/home/te7ris/workspace/work/projects/dashboard/dashboard_uwsgi.ini",
+		"/home/te7ris/workspace/work/projects/dashboard/dashboard_nginx.conf",
+		"/home/te7ris/workspace/work/projects/dashboard/test_pymongo.py",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/header.html",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/DELETE.html",
+		"/home/te7ris/workspace/work/projects/dashboard/templates/list_databases.html",
+		"/home/te7ris/workspace/work/projects/dashboard/configuration/models.py",
+		"/home/te7ris/workspace/work/projects/dashboard/configuration/admin.py",
+		"/home/te7ris/workspace/work/projects/dashboard/static/css/styles.css",
+		"/home/te7ris/workspace/work/projects/dashboard/static/js/scripts.js",
+		"/home/te7ris/workspace/work/projects/dashboard/loginsys/urls.py",
+		"/home/te7ris/workspace/work/projects/dashboard/show_database/templatetags/__init__.py",
+		"/home/te7ris/workspace/work/projects/dashboard/show_database/templatetags/key_filter.py",
+		"/home/te7ris/workspace/django_projects/facemash/facemash/settings.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/templates/list_documents.html",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/static/css/styles.css",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/show_database/templatetags/__init__.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/filters/filters.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/filters/__init__.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/templates/__init__.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/mongodb_backend/__init__.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/test_pymongo.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/show_database/models.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/mongodb_backend/urls.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/mongodb_backend/settings.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/show_db/views.py",
+		"/home/te7ris/workspace/work/projects/mongodb_backend/templates/base.html",
+		"/home/te7ris/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/te7ris/Documents/workspace/Finder/blocks/test.py",
+		"/home/te7ris/Documents/workspace/Finder/player.py",
+		"/home/te7ris/Documents/workspace/Finder/levels/1.txt",
+		"/home/te7ris/Documents/workspace/Finder/finder.py",
+		"/home/te7ris/Documents/workspace/Finder/blocks.py",
+		"/home/te7ris/Documents/workspace/Finder/monsters.py",
+		"/home/te7ris/Documents/workspace/Finder/test.py",
+		"/home/te7ris/Documents/workspace/Finder/pyganim.py",
+		"/home/te7ris/Documents/workspace/Finder/setup.py",
+		"/home/te7ris/Documents/workspace/vadim/vchin-yellow/yp2.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/pars_habrahabr/parsing_habrahabr.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/test_image.py",
+		"/home/te7ris/workspace/python/fl_ru/takeinfo.py",
+		"/home/te7ris/workspace/python/fl_ru/mkfile.py",
+		"/home/te7ris/workspace/python/fl_ru/test.txt",
+		"/home/te7ris/Documents/workspace/vadim/grab/first_parser/grab_first_try.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/test_pymongo.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/grab_first_try.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/settings.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/spider.py",
+		"/home/te7ris/Documents/workspace/vadim/grab/out.html",
+		"/home/te7ris/Documents/workspace/vadim/grab/out2.html",
+		"/home/te7ris/Documents/3 kurs/Finder/finder.py",
+		"/home/te7ris/Documents/3 kurs/Finder/setup.py",
+		"/home/te7ris/Documents/workspace/vadim/gevent/gevent/stdiehl/11_2_events.py",
+		"/home/te7ris/Documents/workspace/vadim/gevent/gevent/stdiehl/11_1_events.py",
+		"/home/te7ris/Documents/workspace/vadim/gevent/gevent/stdiehl/10_monkeypatching.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 84.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"”",
+			"“",
+			"”",
+			"urls.py",
+			"уу",
+			"presets_names1",
+			"preset_host",
+			">\n",
+			"\n				<div>",
+			"sys",
+			"urlpa",
+			"show",
+			"USER",
+			" \n",
+			"database ",
+			"collection",
+			"databases",
+			"page_num",
+			"While copying",
+			"db_u",
+			"copy",
+			"error_cop",
+			"Error",
+			"presets",
+			"preset",
+			"url",
+			"yp_go",
+			".white",
+			"#white",
+			"header",
+			"img",
+			"footer",
+			"render_to_response",
+			"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n\nMEDIA_URL = '/media/'",
+			"models"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "functional_tests/all_users.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 36.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
